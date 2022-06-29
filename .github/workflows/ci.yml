@@ -11,7 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: build json content
-        run: chmod +x ./script/build-content.sh
+        run: |
+          chmod +x ./script/build-content.sh
+          ./script/build-content.sh
         shell: bash
       - name: Create Release
         id: create_release
