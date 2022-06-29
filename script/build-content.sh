@@ -26,5 +26,5 @@ echo "Folder img built."
 
 
 echo "Zipping all together..."
-zip content.zip content.json img/*
+zip content.zip content.json -r img
 
