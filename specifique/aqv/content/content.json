@@ -1,0 +1,84 @@
+{
+  "specifique": [
+    {
+      "id": "aqv",
+      "isSurveyOnline": true,
+      "messageSurveyOffline": "L'enquête est terminée",
+      "messageInfoSurveyOffline": "",
+      "title": "Enquête annuelle Qualité Volailles en 2023",
+      "titleShort": "Qualité Volailles 2023",
+      "verifmail": false,
+      "content": {
+        "description": {
+          "title": "Enquête annuelle Qualité Volailles en 2023",
+          "body": "Collecter chaque année pour le compte de la Direction générale de l’alimentation le poids des volailles abattues par espèce et par signe de qualité."
+        },
+        "resultats": {
+          "title": "Résultats 2020",
+          "menu-title": "Résultats de l'enquête annuelle Qualité Volailles en 2020",
+          "picture-url": "img/qqv_resultats.png",
+          "legende": "[Résultat de l'enquête de 2020](https://agreste.agriculture.gouv.fr/agreste-web/disaron/SynAvi21373/detail/)"
+        },
+        "enquete-en-detail": {
+          "menu-link": "https://agreste.agriculture.gouv.fr/agreste-web/methodon/S-Qualit%C3%A9%20abattoirs%20volaille/methodon/"
+        },
+
+        "donnees-personnelles": {
+          "cartouche": "A compléter ...",
+          "context": ""
+        },
+        "a-quoi-servent-vos-reponses": {
+          "body": "[Sans vos réponses à nos enquêtes, ces données n'existeraient pas](https://agreste.agriculture.gouv.fr/agreste-web/download/publication/publie/IraAvi20139/2020_139inforapaviculture.pdf)."
+        },
+        "faq-data": [
+          {
+            "title": "J’ai oublié mon identifiant",
+            "body": "Si vous avez perdu vos identifiant et mot de passe, des courriers de relance contenant de nouveaux identifiants de connexion sont prévus régulièrement jusqu’au 15 novembre. \n\nAprès cette date, pour déclarer un oubli d’identifiant de connexion, cliquez sur le lien « Contacter l’assistance » proposé sous la zone de saisie de l’identifiant et du mot de passe et renseignez le formulaire en ligne de demande d’assistance."
+          },
+          {
+            "title": "J’ai oublié mon mot de passe",
+            "body": "Si vous avez perdu vos identifiant et mot de passe, des courriers de relance contenant de nouveaux identifiants de connexion sont prévus régulièrement jusqu’au 15 novembre.\n\n   Après cette date, pour déclarer un oubli de mot de passe, cliquez sur le lien « Contacter l’assistance » proposé sous la zone de saisie de l’identifiant et du mot de passe et renseignez le formulaire en ligne de demande d’assistance."
+          },
+          {
+            "title": "Est-ce que je peux remplir le questionnaire en plusieurs fois ?",
+            "body": "Oui. Le bouton de navigation « Enregistrer et continuer », situé en bas à droite de chaque page du questionnaire, permet d’enregistrer le questionnaire et le bouton « déconnexion », en haut à droite permet ensuite de se déconnecter. \n\n En cas de fermeture du questionnaire, sans enregistrement préalable de votre part, les données saisies après la dernière validation avec le bouton « Enregistrer et continuer » sont perdues.\n\nVous pourrez ensuite vous reconnecter sur ce questionnaire plus tard (en utilisant toujours l’identifiant inscrit sur le courrier et le mot de passe généré par vous-même lors de la première connexion) et continuer à le compléter, au plus tard jusqu’à la date de retour figurant sur le courrier qui vous est parvenu. Si vous vous reconnectez après avoir reçu un nouveau courrier de relance, il vous faudra utiliser les identifiant et mot de passe inscrits sur ce nouveau courrier."
+          },
+          {
+            "title": "J’ai fermé le questionnaire en cours de remplissage, que faire ?",
+            "body": "Si vous avez fermé le questionnaire alors que vous n’aviez pas terminé de le remplir, les données que vous avez saisies restent accessibles et vous pouvez continuer de répondre à ce questionnaire. Pour cela, vous pouvez vous connecter à nouveau sur le site de l’enquête avec votre identifiant et votre mot de passe."
+          },
+          {
+            "title": "J’ai fermé le questionnaire en cours de remplissage, mes données sont-elles enregistrées ?",
+            "body": "Toutes vos données s’enregistrent lorsque vous cliquez sur le bouton « Enregistrer et continuer », situé en bas à droite de chaque page du questionnaire.\n\nLes données saisies après le dernier enregistrement sont perdues en cas de fermeture du questionnaire sans enregistrement préalable de votre part ou lors d’une déconnexion automatique (qui survient, pour des raisons de sécurité, au bout de 30 minutes d'inactivité)."
+          }
+        ]
+      },
+      "configuration": {
+        "listOptionsObjetMailAssistance": [
+          {
+            "auth": true,
+            "value": "affichageQuestionnaire",
+            "displayValue": "Affichage du questionnaire"
+          },
+          {
+            "auth": true,
+            "value": "comprehensionQuestionnaire",
+            "displayValue": "Compréhension du questionnaire"
+          },
+          { "auth": true, "value": "autre", "displayValue": "Autre" },
+          {
+            "auth": false,
+            "value": "perteMotDePasse",
+            "displayValue": "Mot de passe oublié"
+          },
+          {
+            "auth": false,
+            "value": "perteIdentifiant",
+            "displayValue": "Identifiant oublié"
+          },
+          { "auth": false, "value": "autre", "displayValue": "Autre" }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+	"specifique":
+	[
+	{
+      "id": "fpe",
+      "isSurveyOnline": false,
+      "messageSurveyOffline": "L'enquête est terminée",
+      "messageInfoSurveyOffline": "",
+      "title": "Enquête auprès des salariés de l'État en 2018",
+      "titleShort": "Salariés de l’État en 2018",
+      "verifmail": false,
+      "content": {
+        "description": {
+          "title": "Enquête auprès des salariés de l'État en 2018",
+          "body": "L’enquête auprès des salariés de l’État a pour objectif de recueillir des informations sur les salariés de la Fonction publique d’État non disponibles dans les fichiers administratifs (niveau de formation du salarié, parcours professionnel, temps de travail, etc.) afin de permettre une analyse plus fine des déterminants du salaire et approfondir certains thèmes importants relatifs à la question salariale, tels que les différences de rémunération entre hommes et femmes. Il est important que nous puissions recueillir votre réponse afin que la diversité des caractéristiques de la population soit prise en compte et qu’elle assure ainsi la représentativité de l’ensemble des personnes interrogées. Vos réponses resteront confidentielles et serviront uniquement à l’établissement de statistiques. Les données de cette enquête pourront être rapprochées des données administratives auxquelles le service producteur a accès, dans les mêmes conditions de sécurité et de confidentialité. \n\n [Pour en savoir plus](https://www.insee.fr/fr/metadonnees/source/s1263)"
+        },
+        "resultats": {
+          "title": "Résultats 2014",
+          "menu-title": "Résultats de l'enquête FPE 2014",
+          "picture-url": "img/fpe_resultats.png",
+          "legende": "[« Les agents de l'État en 2014 » : leurs profils, leurs carrières, dans « Emploi, chômage, revenus du travail », collection « Insee Références, édition 2018 »](https://www.insee.fr/fr/statistiques/3573729?sommaire=3573876)"
+        },
+        "enquete-en-detail": {
+          "menu-link": "https://www.insee.fr/fr/metadonnees/source/serie/s1263"
+        },
+
+        "donnees-personnelles": {
+          "cartouche": "Vu l'avis favorable du Conseil national de l'information statistique, cette enquête est **reconnue d'intérêt général et de qualité statistique**, en application de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques. Elle a obtenu le visa n° 2019X081EC du Ministre de l’économie et des finances, valable pour l’année 2019 – Arrêté en date du 25 juillet 2019.\n\n Cette enquête est **obligatoire**. En cas de défaut de réponse, les personnes enquêtées peuvent être l'objet de l’amende prévue à l’article 131-13 du code pénal.\n\n Les réponses à ce questionnaire sont protégées par le secret statistique et destinées à l’Insee. Ces réponses ainsi que les données obtenues par appariement seront conservées pendant 5 ans à compter de la fin de la collecte pour les besoins de l’enquête. Elles seront archivées au-delà de cette durée. À tout moment, leur usage et leur accès seront strictement contrôlés et limités à l'élaboration de statistiques ou à des travaux de recherche scientifique ou historique.\n\n Le règlement général 2016/679 du 27 avril 2016 sur la protection des données (RGPD) ainsi que la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'appliquent à la présente enquête.\n\n L’Insee est seul destinataire des données d’identification (nom et coordonnées), ainsi que les Archives de France, conformément aux dispositions de l’article L. 212-4 du code du patrimoine.\n\n Elles seront conservées par le service producteur pendant 6 mois.\n\n Les personnes enquêtées peuvent exercer un droit d'accès, de rectification, d’effacement ou de limitation de traitement pour les données les concernant pendant la période de conservation des données d’identification. Ces droits peuvent être exercés auprès de l’Insee, que vous pouvez contacter à l’adresse [contacts-enquete-salaries-etat@insee.fr](mailto:contacts-enquete-salaries-etat@insee.fr). Pour toute question relative au traitement de vos données, vous pouvez contacter le délégué à la protection des données du Ministère de l’économie et des finances à l’adresse [le-delegue-a-la-protection-des-donnees-personnelles@finances.gouv.fr](mailto:le-delegue-a-la-protection-des-donnees-personnelles@finances.gouv.fr). Vous pouvez si vous l’estimez nécessaire adresser une réclamation à la Cnil.",
+          "context": ""
+        },
+        "a-quoi-servent-vos-reponses": {
+          "body": "[Sans vos réponses à nos enquêtes, ces données n'existeraient pas](https://www.insee.fr/fr/information/2498856)\n\nChaque État de l’Union européenne est tenu de produire des statistiques structurelles nationales sur le coût de la main d’œuvre et la structure des salaires. Couplée aux sources administratives nationales, l’enquête auprès des salariés de l’État vient ainsi compléter, sur le champ de la fonction publique d’État, le dispositif Ecmoss (enquête sur le coût de la main d’œuvre et la structure des salaires). Elle permet ainsi à l’Insee de produire et mettre à disposition d’Eurostat (Office statistique de l’Union européenne) des données comparables à celles des autres États membres, dans le cadre du règlement européen n° 530/1999 du 3 mars 1999. Les données collectées permettent également à la Dares (Service statistique ministériel du ministère du travail) d'assurer le suivi annuel de la structure des rémunérations et du temps de travail."
+        },
+        "faq-data": [
+          {
+            "title": "J’ai oublié mon identifiant",
+            "body": "Si vous avez perdu vos identifiant et mot de passe, des courriers de relance contenant de nouveaux identifiants de connexion sont prévus régulièrement jusqu’au 15 novembre. \n\nAprès cette date, pour déclarer un oubli d’identifiant de connexion, cliquez sur le lien « Contacter l’assistance » proposé sous la zone de saisie de l’identifiant et du mot de passe et renseignez le formulaire en ligne de demande d’assistance."
+          },
+          {
+            "title": "J’ai oublié mon mot de passe",
+            "body": "Si vous avez perdu vos identifiant et mot de passe, des courriers de relance contenant de nouveaux identifiants de connexion sont prévus régulièrement jusqu’au 15 novembre.\n\n   Après cette date, pour déclarer un oubli de mot de passe, cliquez sur le lien « Contacter l’assistance » proposé sous la zone de saisie de l’identifiant et du mot de passe et renseignez le formulaire en ligne de demande d’assistance."
+          },
+          {
+            "title": "Est-ce que je peux remplir le questionnaire en plusieurs fois ?",
+            "body": "Oui. Le bouton de navigation « Enregistrer et continuer », situé en bas à droite de chaque page du questionnaire, permet d’enregistrer le questionnaire et le bouton « déconnexion », en haut à droite permet ensuite de se déconnecter. \n\n En cas de fermeture du questionnaire, sans enregistrement préalable de votre part, les données saisies après la dernière validation avec le bouton « Enregistrer et continuer » sont perdues.\n\nVous pourrez ensuite vous reconnecter sur ce questionnaire plus tard (en utilisant toujours l’identifiant inscrit sur le courrier et le mot de passe généré par vous-même lors de la première connexion) et continuer à le compléter, au plus tard jusqu’à la date de retour figurant sur le courrier qui vous est parvenu. Si vous vous reconnectez après avoir reçu un nouveau courrier de relance, il vous faudra utiliser les identifiant et mot de passe inscrits sur ce nouveau courrier."
+          },
+          {
+            "title": "J’ai fermé le questionnaire en cours de remplissage, que faire ?",
+            "body": "Si vous avez fermé le questionnaire alors que vous n’aviez pas terminé de le remplir, les données que vous avez saisies restent accessibles et vous pouvez continuer de répondre à ce questionnaire. Pour cela, vous pouvez vous connecter à nouveau sur le site de l’enquête avec votre identifiant et votre mot de passe."
+          },
+          {
+            "title": "J’ai fermé le questionnaire en cours de remplissage, mes données sont-elles enregistrées ?",
+            "body": "Toutes vos données s’enregistrent lorsque vous cliquez sur le bouton « Enregistrer et continuer », situé en bas à droite de chaque page du questionnaire.\n\nLes données saisies après le dernier enregistrement sont perdues en cas de fermeture du questionnaire sans enregistrement préalable de votre part ou lors d’une déconnexion automatique (qui survient, pour des raisons de sécurité, au bout de 30 minutes d'inactivité)."
+          },
+          {
+            "title": "Mon questionnaire a-t-il bien été transmis à l’Insee ?",
+            "body": "Vous pouvez saisir de nouveau vos identifiant et mot de passe sur le site de l’enquête. Si le message « Votre questionnaire a bien été expédié le - à - . L’Insee vous remercie de votre collaboration à cette enquête.» s’affiche, votre questionnaire a bien été envoyé."
+          },
+          {
+            "title": "Qui peut répondre à l’enquête?",
+            "body": "Le questionnaire s’adresse uniquement à la personne à laquelle le courrier que vous avez reçu a été adressé."
+          },
+          {
+            "title": "Quelle est la durée de cette enquête ?",
+            "body": "Il faut en moyenne 20 minutes environ pour répondre à ce questionnaire."
+          },
+          {
+            "title": "Je ne suis pas fonctionnaire, suis-je tout de même concerné par cette enquête ?",
+            "body": "Tous les agents de l’État (et des opérateurs de l’État) peuvent être concernés par cette enquête,  quels que soient leur statut (fonctionnaire, contractuel, vacataire, stagiaire, etc.) et leur durée de travail (à temps plein ou temps partiel)."
+          },
+          {
+            "title": "Est-ce obligatoire de répondre ?",
+            "body": "Oui, l’enquête est obligatoire et reconnue d'intérêt général et de qualité statistique. Elle dispose d’un visa (n°2019X081EC) du Ministère de l’économie et des finances valable pour l’année 2019."
+          },
+          {
+            "title": "Pourquoi est-ce important de répondre ?",
+            "body": "Il est important que nous puissions recueillir votre réponse afin de prendre en compte la diversité des caractéristiques des salariés de l’État et d’assurer la qualité statistique des résultats. Vous faites partie d’un échantillon représentatif des salariés de l’État sélectionné aléatoirement à partir des fichiers administratifs (fichiers de paie ou déclarations sociales). La diversité des réponses permettra de brosser un portrait fidèle de l’ensemble des salariés de l’État."
+          },
+          {
+            "title": "Quand aura-t-on les résultats de l’enquête ?",
+            "body": "Les premiers résultats seront diffusés au second semestre 2020."
+          },
+          {
+            "title": "À quoi sert cette enquête ?",
+            "body": "Cette enquête vise à compléter l’information sur les rémunérations des ministères et des établissements publics nationaux, disponible dans les fichiers administratifs, par des informations non disponibles telles que le niveau de formation, le parcours professionnel, le temps de travail et la situation familiale des salariés de l’État. Elle fournira des informations objectives et fiables utiles aux politiques publiques, permettra d’éclairer le débat public et de répondre à une demande de l’Union européenne sur les salaires."
+          },
+          {
+            "title": "Mon employeur actuel est différent de celui indiqué en 1ère page du questionnaire. Dois-je répondre à l’enquête ?",
+            "body": "Si vous avez été rémunéré une partie de l’année 2018 par l’employeur indiqué sur le questionnaire, il vous est demandé de répondre au questionnaire en ne considérant que la période où vous avez travaillé pour l’administration ou l’opérateur indiqué.\n\nExemple : vous avez pris un congé parental du 01/04/2018 au 30/09/2018 et avez changé d’administration à compter du 01/10/2018. Il vous est demandé de répondre pour la période du 01/01 au 30/03/2018."
+          },
+          {
+            "title": "J’ai pris ma retraite au cours de l’année 2018. Dois-je répondre à l’enquête ?",
+            "body": "Oui, vous êtes concerné par l’enquête pour la période antérieure à votre départ en retraite."
+          },
+          {
+            "title": "J’ai été physiquement absent de mon administration pendant toute l’année 2018. Dois-je répondre à l’enquête ?",
+            "body": "Si vous avez été rémunéré en 2018 par l’employeur indiqué sur le questionnaire, vous êtes concerné par l’enquête (y compris en cas de CLM, CLD)."
+          }
+        ]
+      },
+      "configuration": {
+        "listOptionsObjetMailAssistance": [
+          {
+            "auth": true,
+            "value": "affichageQuestionnaire",
+            "displayValue": "Affichage du questionnaire"
+          },
+          {
+            "auth": true,
+            "value": "comprehensionQuestionnaire",
+            "displayValue": "Compréhension du questionnaire"
+          },
+          { "auth": true, "value": "autre", "displayValue": "Autre" },
+          { "auth": false, "value": "perteMotDePasse", "displayValue": "Mot de passe oublié" },
+          { "auth": false, "value": "perteIdentifiant", "displayValue": "Identifiant oublié" },
+          { "auth": false, "value": "autre", "displayValue": "Autre" }
+        ]
+      }
+	}
+	]
+}

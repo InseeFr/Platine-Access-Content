@@ -1,0 +1,78 @@
+{
+  "generique": {
+    "importantInfo": {
+      "state": false,
+      "message": {
+        "title": "⚠️ Information importante ⚠️",
+        "body": "Selon le moment de la journée, il se peut que des lenteurs soient observées sur le site en cas de forte affluence.\n\n Si tel est le cas nous vous conseillons de vous reconnecter ultérieurement."
+      }
+    },
+    "content": {
+      "a-quoi-servent-vos-reponses": {
+        "body": "L’Insee est un organisme public chargé de collecter, traiter, analyser et diffuser l’information statistique à caractère économique, démographique ou social. Il coordonne le système statistique français et participe aux travaux menés par les organismes internationaux, notamment Eurostat, l’Office statistique de l'Union européenne. Pour remplir sa mission statistique en toute indépendance, il dispose d’une large autonomie vis-à-vis des autres administrations. Les enquêtes de l’Insee servent à alimenter des études économiques et sociales qui intéressent un large public.",
+        "information": "Pour en savoir plus sur l’Insee : [www.insee.fr](https://insee.fr)"
+      },
+      "accessibilite": {
+        "title": "Accessibilité",
+        "body": "Le décret n° 2009-546 du 14 mai 2009 pris en application de l'article 47 de la loi n° 2005-102 du 11 février 2005 sur l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées a créé un référentiel d'accessibilité des services de communication publique en ligne. Ce site a été conçu dans un souci de conformité avec les critères du référentiel général d'accessibilité des administrations ([RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite))."
+      },
+      "faq-data": [
+        {
+          "title": "Qu’est-ce que l’Insee ?",
+          "body": "L’Institut national de la statistique et des études économiques (Insee) est chargé de la production, de l’analyse et de la publication des statistiques officielles en France : évaluation de la démographie nationale, des conditions de vie et de revenu des ménages, du taux de chômage, de la comptabilité nationale annuelle et trimestrielle... Il s’agit d’un organisme indépendant du gouvernement.\n\nPour plus d’informations sur l’Insee : [www.insee.fr](https://insee.fr)"
+        },
+
+        {
+          "title": "A quoi servent les enquêtes de l’Insee et de la statistique publique ?",
+          "body": "Les résultats des enquêtes permettent d’éclairer le débat public français et européen sur différents sujets (ressources, dépenses, conditions de travail, emploi, chômage, formation, déplacements, insécurité…) en étudiant une partie de la population résidant en France."
+        },
+
+        {
+          "title": "Comment m’avez-vous sélectionné(e) ?",
+          "body": "Afin de disposer de résultats représentatifs de l’ensemble de la population vivant en France, il est inutile d’interroger tout le monde : ce serait beaucoup trop coûteux et long.\n\n C’est pourquoi l’Insee sélectionne aléatoirement des personnes ou des logements représentatifs de la population dans son ensemble. Cette représentativité est primordiale ; elle garantit la qualité des résultats utilisés par l’ensemble des acteurs de la vie économique et sociale. Il est donc très important que vous participiez à cette enquête."
+        },
+
+        {
+          "title": "Est-ce anonyme ?",
+          "body": "Oui, comme la loi en fait la plus stricte obligation, vos réponses resteront anonymes. Elles sont destinées à l’Insee à des fins d’études statistiques. Elles ne sont en aucun cas utilisées à des fin de contrôle.\n\n En application de la loi n°51-711 du 7 juin 1951 sur l’obligation, la coordination et le secret en matière de statistiques, les réponses aux enquêtes statistiques, ainsi que les données obtenues par appariement, sont protégées par le secret statistique ; elles servent uniquement à l’établissement de statistiques.\n\nLe règlement général 2016/679 du 27 avril 2016 sur la protection des données (RGPD) ainsi que la loi n° 78-17 du 6 janvier 1978, relative à l’informatique, aux fichiers et aux libertés, s’appliquent aux réponses faites aux enquêtes. Les personnes concernées ont un droit d’accès, de rectification ou de limitation pour les données les concernant. Ce droit peut être exercé auprès de l’Insee."
+        },
+
+        {
+          "title": "Les données sont-elles confidentielles ?",
+          "body": "Oui, les réponses sont totalement confidentielles.\n\n L’Insee respecte pour toutes ses enquêtes une procédure rigoureuse, approuvée par la Commission nationale de l’informatique et des libertés (Cnil).\n\n En application de la loi n°51-711 du 7 juin 1951 sur l’obligation, la coordination et le secret en matière de statistiques, les réponses aux enquêtes statistiques, ainsi que les données obtenues par appariement, sont protégées par le secret statistique ; elles servent uniquement à l’établissement de statistiques. \n\nLe règlement général 2016/679 du 27 avril 2016 sur la protection des données (RGPD) ainsi que la loi n° 78-17 du 6 janvier 1978, relative à l’informatique, aux fichiers et aux libertés, s’appliquent aux réponses faites aux enquêtes. Les personnes concernées ont un droit d’accès, de rectification ou de limitation pour les données les concernant. Ce droit peut être exercé auprès de l’Insee."
+        },
+
+        {
+          "title": "Une question me gêne, je ne souhaite pas y répondre",
+          "body": "Une enquête n’a d’intérêt que si elle traduit la réalité ; il vaut mieux donc ne pas répondre si une question vous gêne.\n\n Ayez toutefois à l’esprit que vos réponses sont totalement anonymes et confidentielles. Assemblées avec celles de tous les autres répondants, elles servent à établir des statistiques sur l’ensemble de la population."
+        },
+
+        {
+          "title": "Après avoir répondu à l’enquête, quel recours ?",
+          "body": "Les articles 38, 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés garantissent aux personnes concernées des droits d’accès et de rectification pour les données les concernant. Ces droits peuvent être exercés auprès de l’Insee."
+        },
+
+        {
+          "title": "Je n’arrive pas à me connecter",
+          "body": "Vérifiez que l’identifiant et le mot de passe saisis sont exacts ; veillez notamment à bien respecter les minuscules et majuscules du mot de passe.\n\n Par ailleurs, si vous avez déjà rempli et validé le questionnaire, vous ne pouvez plus y accéder."
+        },
+
+        {
+          "title": "Comment débloquer mon compte ?",
+          "body": "Pour des raisons de sécurité, en cas de trop nombreuses tentatives d’authentification, le compte peut être momentanément bloqué. Dans ce cas, veuillez patienter quelques minutes avant de vous authentifier à nouveau, le compte sera alors automatiquement débloqué."
+        },
+        {
+          "title": "J’ai oublié/perdu mon mot de passe, que faire ?",
+          "body": "Le mot de passe est indiqué dans la lettre annonçant l’enquête. Pour des raisons de sécurité, il doit être modifié à la première connexion. En cas d'oubli, cliquez sur le lien « Mot de passe oublié ? » de la page d’authentification. Après saisie de votre identifiant, vous recevrez automatiquement un nouveau mot de passe par courriel ou courrier.\n\nUne fois la demande de réinitialisation envoyée, le mot de passe initial figurant sur le courrier n'est plus valide.\n\nDans le cas d'un envoi par courriel, si vous ne recevez pas rapidement votre nouveau mot de passe, pensez à vérifier dans votre boîte de courriers indésirables (SPAM) ou « Contactez l’assistance »."
+        },
+        {
+          "title": "J’ai perdu mon identifiant, que faire ?",
+          "body": "L’identifiant est rappelé dans tous nos échanges. En cas de perte, cliquez sur le lien « Contacter l’assistance » de la page d’accueil ou d’authentification et renseignez le formulaire en ligne de demande d’assistance."
+        }
+      ],
+      "ineligible": {
+        "body": "Vous n’êtes plus concerné par une enquête internet de l’Insee en cours. Un enquêteur prendra éventuellement contact avec vous pour répondre par téléphone."
+      }
+    }
+  }	
+}
