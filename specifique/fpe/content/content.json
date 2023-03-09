@@ -1,9 +1,8 @@
 {
-	"specifique":
-	[
-	{
+  "specifique": [
+    {
       "id": "fpe",
-      "isSurveyOnline": false,
+      "isSurveyOnline": true,
       "messageSurveyOffline": "L'enquête est terminée",
       "messageInfoSurveyOffline": "",
       "title": "Enquête auprès des salariés de l'État en 2018",
@@ -111,11 +110,19 @@
             "displayValue": "Compréhension du questionnaire"
           },
           { "auth": true, "value": "autre", "displayValue": "Autre" },
-          { "auth": false, "value": "perteMotDePasse", "displayValue": "Mot de passe oublié" },
-          { "auth": false, "value": "perteIdentifiant", "displayValue": "Identifiant oublié" },
+          {
+            "auth": false,
+            "value": "perteMotDePasse",
+            "displayValue": "Mot de passe oublié"
+          },
+          {
+            "auth": false,
+            "value": "perteIdentifiant",
+            "displayValue": "Identifiant oublié"
+          },
           { "auth": false, "value": "autre", "displayValue": "Autre" }
         ]
       }
-	}
-	]
+    }
+  ]
 }
