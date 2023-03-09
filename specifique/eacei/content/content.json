@@ -1,23 +1,23 @@
 {
   "specifique": [
     {
-      "id": "fpe",
+      "id": "eacei",
       "isSurveyOnline": true,
       "messageSurveyOffline": "L'enquête est terminée",
       "messageInfoSurveyOffline": "",
-      "title": "Enquête auprès des salariés de l'État en 2018",
-      "titleShort": "Salariés de l’État en 2018",
+      "title": "Enquête sur les consommations d'énergie dans l'industrie",
+      "titleShort": "Enquête sur les consommations d'énergie dans l'industrie",
       "verifmail": false,
       "content": {
         "description": {
-          "title": "Enquête auprès des salariés de l'État en 2018",
-          "body": "L’enquête auprès des salariés de l’État a pour objectif de recueillir des informations sur les salariés de la Fonction publique d’État non disponibles dans les fichiers administratifs (niveau de formation du salarié, parcours professionnel, temps de travail, etc.) afin de permettre une analyse plus fine des déterminants du salaire et approfondir certains thèmes importants relatifs à la question salariale, tels que les différences de rémunération entre hommes et femmes. Il est important que nous puissions recueillir votre réponse afin que la diversité des caractéristiques de la population soit prise en compte et qu’elle assure ainsi la représentativité de l’ensemble des personnes interrogées. Vos réponses resteront confidentielles et serviront uniquement à l’établissement de statistiques. Les données de cette enquête pourront être rapprochées des données administratives auxquelles le service producteur a accès, dans les mêmes conditions de sécurité et de confidentialité. \n\n [Pour en savoir plus](https://www.insee.fr/fr/metadonnees/source/s1263)"
+          "title": "Enquête sur les consommations d'énergie dans l'industrie",
+          "body": "L’EACEI a pour but de mesurer les consommations d’énergie des établissements de plus de 20 salariés dans l’industrie. Elle fournit les quantités consommées par type d’énergie, les coûts afférents, et la répartition par usage de chaque énergie utilisée. L’EACEI sert également à répondre à deux règlements européens et à alimenter le bilan énergétique annuel."
         },
         "resultats": {
-          "title": "Résultats 2014",
-          "menu-title": "Résultats de l'enquête FPE 2014",
-          "picture-url": "img/fpe_resultats.png",
-          "legende": "[« Les agents de l'État en 2014 » : leurs profils, leurs carrières, dans « Emploi, chômage, revenus du travail », collection « Insee Références, édition 2018 »](https://www.insee.fr/fr/statistiques/3573729?sommaire=3573876)"
+          "title": "Résultats",
+          "menu-title": "Résultats de l'enquête EACEI",
+          "picture-url": "img/eacei_resultats.png",
+          "legende": "[« Les consommations d'énergie dans l'industrie en 2020 », collection « Insee Résultats, édition 2022 »](https://www.insee.fr/fr/statistiques/6326575)"
         },
         "enquete-en-detail": {
           "menu-link": "https://www.insee.fr/fr/metadonnees/source/serie/s1263"
